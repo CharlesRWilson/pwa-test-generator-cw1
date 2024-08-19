@@ -8,7 +8,7 @@ async function initDb() {
     user: "charlesrwilson",
     host: "localhost",
     database: "employee_db",
-    password: "postgrescw",
+    password: "Cwil0096",
     port: 5432,
   });
 
